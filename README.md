@@ -18,6 +18,6 @@ Follow these steps to install and set up the Weather Application:
 
 ## Preview
 
-To see a live preview of the Weather Forecast Application, you can visit [Preview Link](shvetsmariia-weather-application.netlify.app/)
+To see a live preview of the Weather Forecast Application, you can visit [Preview Link](https://shvetsmariia-weather-application.netlify.app)
 
 Feel free to explore the app and check the weather forecast for different locations!
